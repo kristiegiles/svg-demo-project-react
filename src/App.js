@@ -1,5 +1,5 @@
 import React from 'react';
-import {Icon, IconDocs} from 'react-icon-lib'
+import {IconDocs} from 'react-icon-lib'
 import './App.css';
 
 const App = props => {
